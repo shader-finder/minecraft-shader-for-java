@@ -1,7 +1,5 @@
 #version 150 core
 
-// Ultra Realistic Iris Shader - Shadow Pass Vertex Shader
-
 in vec3 vaPosition;
 in vec2 vaUV0;
 in vec4 vaColor;
